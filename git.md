@@ -2,6 +2,6 @@
 
 ## Mac'e yükle
 
-0.  Terminal i açin
-1.  `brew install git`
-1.  `git config --global user.email "myemail@gmail.com"` (Senin Github e-mail adresin)
+1.  Terminal i açin
+2.  `brew install git`
+3.  `git config --global user.email "myemail@gmail.com"` (Senin Github e-mail adresin)
